@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-<h3> - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/aniketchatterjee700/](https://www.crio.do/learn/portfolio/aniketchatterjee700/)
+<h3> - 👨‍💻 All of my projects are available at <a href="https://www.crio.do/learn/portfolio/aniketchatterjee700/"> PORTFOLIO</a>
  </h3>
 </div>
 <br>
